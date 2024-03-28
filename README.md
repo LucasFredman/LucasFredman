@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasFredman
-- 👀 I’m interested in  Git, GitHub, VsCode, HTML5, CSS3 e JavaScript.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I'm looking to collaborate on Front-end
+- 👀 I’m interested in  Git, GitHub, Python, HTML5, CSS3, SQL, Power BI e JavaScript.
+- 🌱 I’m currently learning python.
+- 💞️ I'm looking to collaborate on Data Analytic
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-fredman-64a916232/
 
 <!---
